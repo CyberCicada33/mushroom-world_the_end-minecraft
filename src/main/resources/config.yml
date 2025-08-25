@@ -1,0 +1,7 @@
+# MushroomKiller 配置文件
+
+# 当玩家在末地放置蘑菇时显示的消息
+message: "§c你不能在末地放置蘑菇!"
+
+# 插件是否启用日志记录
+enable-logging: true

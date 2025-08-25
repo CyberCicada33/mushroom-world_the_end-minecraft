@@ -1,0 +1,7 @@
+name: MushroomKiller
+version: 1.0.0
+main: sakrater.group.mushroomkiller.MushroomKiller
+api-version: 1.21
+description: 检测并清除末地中玩家放置的蘑菇
+author: Your Name
+prefix: MushroomKiller
